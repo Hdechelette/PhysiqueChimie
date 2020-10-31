@@ -4,5 +4,4 @@ matplotlib
 pandas
 networkx
 folium
-pyqt4
 qt
